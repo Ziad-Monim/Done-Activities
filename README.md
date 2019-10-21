@@ -1,1 +1,2 @@
-# Done-activities
+# Done-activities Module
+# Author Ziad Monim
