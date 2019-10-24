@@ -4,7 +4,8 @@
 {
     'name': 'Show Done Activities',
     'summary': 'Show Done Activity details in the crm module',
-    'Author': 'Ziad Monim',
+    'author': 'Ziad Monim(ZMs Company)',
+    'license': 'AGPL-3',
     'description': """
 Show Done Activity
 ===================
